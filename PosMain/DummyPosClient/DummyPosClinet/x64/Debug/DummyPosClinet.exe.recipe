@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\cppprj\rtg\POSMain\DummyPosClinet\x64\Debug\DummyPosClinet.exe</FullPath>
+      <FullPath>C:\work\rgt\rgt\PosMain\DummyPosClient\x64\Debug\DummyPosClinet.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

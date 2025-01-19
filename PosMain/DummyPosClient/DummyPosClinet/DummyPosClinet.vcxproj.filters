@@ -44,7 +44,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\depend\jsoncpp.cpp">
+    <ClCompile Include="..\..\..\depend\jsoncpp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
