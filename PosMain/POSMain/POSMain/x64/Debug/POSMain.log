@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  ControlInterface.cpp
+  Controller.cpp
+  DB.cpp
+  Entity.cpp
+  POSMain.cpp
+  POSMainDlg.cpp
+  ServiceMaster.cpp
+  ServiceProxy.cpp
+  UseCases.cpp
+C:\Users\aldeb\Downloads\rgt\POSMain\POSMain\POSMain\DB.cpp(7,10): warning C4244: '초기화 중': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DB.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\aldeb\Downloads\rgt\POSMain\POSMain\POSMain\DB.cpp(37,10): warning C4244: '초기화 중': 'INT_PTR'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DB.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\aldeb\Downloads\rgt\POSMain\POSMain\POSMain\ServiceProxy.cpp(73,21): warning C4244: '인수': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ServiceProxy.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+C:\Users\aldeb\Downloads\rgt\POSMain\POSMain\POSMain\ServiceProxy.cpp(43,1): warning C4715: 'ServiceProxy::Init': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  POSMain.vcxproj -> C:\Users\aldeb\Downloads\rgt\POSMain\POSMain\x64\Debug\POSMain.exe
