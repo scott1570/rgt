@@ -31,7 +31,7 @@
    1) Entity : 자료구조 저장/업데이트
    2) UseCases : order 만 구현됨, cancel 등 구현이 안되었습니다.
    3) DummyPosClient or Postman 에 의해 들어오는 Json을 PosService 를 통해 처리된 데이터를 받아 자체 자료구조에 저장하여 새로운 주문,상태 업데이트에 적용하였습니다.
-
+   4) 실행파일이 있는 디렉터리에 config.json 이 필요하며 내용은 접속할 Service 의 ip,port 입니다.
 3. DummyPosClient : Input Json 을 랜덤하게 생성하여, POSService로 전송하는 역할을 수행합니다.
 
 
